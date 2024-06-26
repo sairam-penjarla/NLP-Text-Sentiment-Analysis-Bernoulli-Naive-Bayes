@@ -12,7 +12,7 @@ This project explores sentiment analysis on a dataset of tweets. It performs the
 
 1. **Clone the repository**
    ```bash
-   https://github.com/sairam-penjarla/QR-Code.git
+   git clone https://github.com/sairam-penjarla/Sentiment-Analysis-on-Twitter-Data.git
    ```
 
 2. **Install the required dependencies**
