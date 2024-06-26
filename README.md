@@ -22,10 +22,10 @@ This project explores sentiment analysis on a dataset of tweets. It performs the
 
 3. **Run the script:**
     ```bash
-    `cd scripts`
+    cd scripts
     ```
     ```bash
-    `python main.py`
+    python main.py
     ```
 
 ## Required Libraries:
