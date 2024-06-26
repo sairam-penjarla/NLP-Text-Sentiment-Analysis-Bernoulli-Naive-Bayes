@@ -15,12 +15,16 @@ This project explores sentiment analysis on a dataset of tweets. It performs the
    git clone https://github.com/sairam-penjarla/Sentiment-Analysis-on-Twitter-Data.git
    ```
 
-2. **Install the required dependencies**
+2. **Download the dataset:**
+   You can donwload the dataset used from the below link:
+   `https://www.kaggle.com/datasets/kazanova/sentiment140`
+   
+4. **Install the required dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the script:**
+5. **Run the script:**
     ```bash
     cd scripts
     ```
